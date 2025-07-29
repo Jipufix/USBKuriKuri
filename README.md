@@ -18,11 +18,10 @@ The design takes cues from the excellent [Anything Device](https://nandemo-zenma
 This is an early-stage hardware/software prototype. Expect bugs, incomplete features, and lots of updates.
 
 ## License
-MIT License. This is a fan-made project and is not affiliated with or endorsed by NEKOPLA, Kyoto Animation, or any IP holders.
+This project is licensed under the [MIT License](LICENSE). This is a fan-made project and is not affiliated with or endorsed by NEKOPLA, Kyoto Animation, or any IP holders.
 
 ## Credits
 - Inspired by [NEKOPLA's Nandemo Zenmai](https://nandemo-zenmai.com/)
-- Created by Ashton Char
 - Open-source tooling and support from the broader maker and hobbyist communities
 
 ## Contributing
