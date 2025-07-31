@@ -18,11 +18,18 @@ The design takes cues from the excellent [Anything Device](https://nandemo-zenma
 This is an early-stage hardware/software prototype. Expect bugs, incomplete features, and lots of updates.
 
 ## License
-This project is licensed under the [MIT License](LICENSE). This is a fan-made project and is not affiliated with or endorsed by NEKOPLA, Kyoto Animation, or any IP holders.
+This project is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].  
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+This is a fan-made project and is not affiliated with or endorsed by NEKOPLA, Kyoto Animation, TFF Co., Ltd., or any IP holders.
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
 
 ## Credits
 - Inspired by [NEKOPLA's Nandemo Zenmai](https://nandemo-zenmai.com/)
-- Open-source tooling and support from the broader maker and hobbyist communities
+- Open-source tooling and support from the broader maker and hobbyist communities.
 
 ## Contributing
 Pull requests and suggestions are welcome. Help improve USBKuriKuri or fork it into your own creations!
